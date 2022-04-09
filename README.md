@@ -8,3 +8,5 @@
 <p>Essa base nao tem muitas coisas, mas irei atualizar sempre.</p>
 <p>Link dos arquivos npm</p>
 <button><a target="_blank" href='https://www.mediafire.com/download/x0j1i6luc3nc420'>Clique Aqui!</a> </button>
+<p>Comandos de ativação<p>
+<p>apt update && apt upgrade<p>apt install git<p>apt install nodejs<p>
