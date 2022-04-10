@@ -10,3 +10,4 @@
 <button><a target="_blank" href='https://www.mediafire.com/download/x0j1i6luc3nc420'>Clique Aqui!</a> </button>
 <p>Comandos de ativação<p>
 <p>apt update && apt upgrade<p>apt install git<p>apt install nodejs<p>
+<p> git clone 
