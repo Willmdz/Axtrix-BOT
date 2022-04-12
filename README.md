@@ -12,8 +12,6 @@
 <p>apt update && apt upgrade<p>apt install git<p>apt install nodejs<p>
 <p> git clone https://github.com/Willmdz/Axtrix-BOT<p>bash install.sh<p><p>e logo após s instalação use o comando<p><p>npm start<p>
 <br>escanei o código de QRcode e pronto. bot instalado, se precisar de ajuda me chame no WhatsApp ou Instagram</br>
-<p> Whatsapp: https//wa.me/557182366834<p>
-<p> Instagram: https://instagram.com/willkkkj.l<p>
 <a href="https://api.whatsapp.com/send?l=pt&amp;phone=557182366834"><img 
 src="https://i.imgur.com/ryESuZ5.png" style="height:64px; position:fixed; bottom: 25px; right: 
 25px; z-index:99999;" data-selector="img"></a>
